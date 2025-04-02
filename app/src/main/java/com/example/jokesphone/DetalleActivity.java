@@ -67,6 +67,8 @@ public class DetalleActivity extends AppCompatActivity {
                 os.flush();
                 os.close();
 
+                Log.d("RESULTADO", "Código de respuesta: " + conn.getResponseCode());
+                Log.d("RESULTADO", uid + ": " + msg);
                 return conn.getResponseCode() == 200;
 
             } catch (Exception e) {
