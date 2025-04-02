@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JokesPhone</string>
+    <string name="txt_splash">Splash</string>
+    <string name="titulo_listado">Listado de Bromas</string>
+    <string name="titulo_terminos">Pantalla de Términos</string>
+    <string name="titulo_item_dialplan">Título</string>
+    <string name="descripcion_item_dialplan">Descripción</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+
+
+</resources>
